@@ -84,26 +84,15 @@ I enjoy understanding how software works under the hood, solving technical probl
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<br clear="both">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Munia2319/Munia2319/snake-output/snake.svg" alt="Snake animation" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
+###
 
 ### 💙 Thanks for visiting my profile!
 
 *Keep learning. Keep building. Keep securing.*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=38BDF8&style=flat" />
 
 </div>
