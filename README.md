@@ -82,8 +82,6 @@ I enjoy understanding how software works under the hood, solving technical probl
 
 ---
 
-## 📊 GitHub Analytics
-
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Munia2319/Munia2319/snake-output/snake.svg" alt="Snake animation" />
