@@ -1,7 +1,7 @@
  <div align="center">
 
   <!-- PROFILE BANNER: ADD YOUR IMAGE LATER -->
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Munia's Profile Banner" />
+  <img src="[YOUR_BANNER_IMAGE_URL](https://github.com/Munia2319/Munia2319/blob/main/Profile%20banner%20%C2%B7%201600%C3%97400%401x.png)" width="100%" alt="Munia's Profile Banner" />
 
  
 # Hi, I'm Musfika Ikfat Munia 👋
