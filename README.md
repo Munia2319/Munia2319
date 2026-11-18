@@ -35,22 +35,13 @@ My background combines software development, cybersecurity research and AI secur
 
 I'm passionate about understanding how systems work, building secure applications and exploring the intersection of **AI, software engineering and cybersecurity**.
 
-- 🎓 Erasmus Mundus MSc in Software Cybersecurity.
-- 🔬 Research experience in AI security and adversarial machine learning.
-- 💻 Experience in full-stack web development using Python and Django.
-- 🔐 Interested in AI Security, Application Security and Secure Software Development.
-- 🚀 Currently expanding my knowledge of backend engineering and AI-powered applications.
 
 ## 🚀 Currently Exploring
 
-Through my software development bootcamp, I'm strengthening my engineering fundamentals and exploring modern technologies.
+Building a strong foundation in **modern software engineering** while exploring the possibilities of **AI-powered applications**.
 
-- **Backend Engineering:** TypeScript, Node.js, Express.js, NestJS and RESTful APIs.
-- **Full-Stack Development:** Next.js, authentication, authorization and RBAC.
-- **Database Engineering:** PostgreSQL, Drizzle ORM, Redis and database design.
-- **AI Engineering:** LLMs, RAG, LangChain, multi-agent systems and tool calling.
-- **Production Engineering:** Docker, NGINX, AWS, CI/CD and deployment.
-- **Software Architecture:** System design, multi-tenant architecture, testing and scalability.
+\<p align="center">   \<img src="[https://img.shields.io/badge/Backend%20Engineering-Node.js%20%7C%20TypeScript-3178C6?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Backend%20Engineering-Node.js%20%7C%20TypeScript-3178C6?style=for-the-badge\&logo=nodedotjs\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/AI%20Engineering-LLMs%20%7C%20RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/AI%20Engineering-LLMs%20%7C%20RAG-8A2BE2?style=for-the-badge\&logo=openai\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/AI%20Agent%20Security-Research%20%26%20Learning-008B8B?style=for-the-badge&logo=shield&logoColor=white](https://img.shields.io/badge/AI%20Agent%20Security-Research%20%26%20Learning-008B8B?style=for-the-badge\&logo=shield\&logoColor=white)" /> \</p>
+
 
 ## 🛠️ Skills & Technologies
 
