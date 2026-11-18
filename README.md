@@ -79,8 +79,7 @@ Building a stronger foundation in software engineering through hands-on developm
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,terraform,githubactions,linux" alt="Cloud and DevOps"/>
 </p>
 
-#
-## 🔐 Security Tools & Technologies
+### Security Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
