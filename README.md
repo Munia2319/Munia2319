@@ -79,13 +79,18 @@ Building a stronger foundation in software engineering through hands-on developm
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,terraform,githubactions,linux" alt="Cloud and DevOps"/>
 </p>
 
-### Security & Development Tools
+#
+## 🔐 Security Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logstail%20SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" />
 </p>
 
-**Security Tools:** Wireshark, Burp Suite, Nmap, Metasploit, Kali Linux and Logstail SIEM.
 
 ## 🔬 Research & Professional Interests
 
