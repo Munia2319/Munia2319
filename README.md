@@ -36,11 +36,14 @@ My background combines software development, cybersecurity research and AI secur
 I'm passionate about understanding how systems work, building secure applications and exploring the intersection of **AI, software engineering and cybersecurity**.
 
 
-## 🚀 Currently Exploring
 
-Building a strong foundation in **modern software engineering** while exploring the possibilities of **AI-powered applications**.
+## 🌱 What I'm Working On
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Backend%20Engineering-Node.js%20%7C%20TypeScript-3178C6?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Backend%20Engineering-Node.js%20%7C%20TypeScript-3178C6?style=for-the-badge\&logo=nodedotjs\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/AI%20Engineering-LLMs%20%7C%20RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/AI%20Engineering-LLMs%20%7C%20RAG-8A2BE2?style=for-the-badge\&logo=openai\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/AI%20Agent%20Security-Research%20%26%20Learning-008B8B?style=for-the-badge&logo=shield&logoColor=white](https://img.shields.io/badge/AI%20Agent%20Security-Research%20%26%20Learning-008B8B?style=for-the-badge\&logo=shield\&logoColor=white)" /> \</p>
+Building a stronger foundation in software engineering through hands-on development, real-world projects, and continuous learning.
+
+## 🎯 Areas of Focus
+
+`Backend Development` · `AI Engineering` · `AI Agent Security`
 
 
 ## 🛠️ Skills & Technologies
@@ -69,7 +72,6 @@ Building a strong foundation in **modern software engineering** while exploring 
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python" alt="AI and Machine Learning"/>
 </p>
 
-**Exploring:** LLMs, RAG, LangChain, Multi-Agent Systems, Embeddings, Prompt Engineering and AI Guardrails.
 
 ### Cloud, DevOps & Infrastructure
 
@@ -94,53 +96,6 @@ Building a strong foundation in **modern software engineering** while exploring 
 - SIEM, Threat Hunting and Incident Response.
 - AI Agent Security and Secure AI Systems.
 
-## 🎓 Education
-
-**MSc in Software Cybersecurity — Erasmus Mundus CYBERUS**
-
-University of Luxembourg, Luxembourg & Université Bretagne Sud, France.
-
-**BSc in Computer Science and Engineering**
-
-Jahangirnagar University, Bangladesh.
-
-## 📚 Selected Projects & Research
-
-- **Intelligent Multi-Agent Workflow Orchestrator (2025):** Developed a Blazor .NET application to orchestrate multiple AI agents.
-- **AI Security Research:** Explored adversarial example generation, data poisoning and robustness of machine learning models.
-- **AWS Hands-on Security Project (2025):** Practiced cloud security and infrastructure scenarios.
-- **University Course Management System:** Designed a secure MySQL database with role-based access control, encryption and backup strategies.
-- **Digital Identity System Risk Assessment:** Conducted security risk assessment and proposed ISO 27001-aligned controls.
-- **Sylheti to Bengali Language Translator:** Developed an NLP and deep learning-based language translation project.
-
-## 📝 Publication
-
-**Fake News Identification Using Artificial Immune Systems**
-
-Ripon, K.S.N.; Hossan, T.; Munia, M.I.; Uddin, M.H.
-
-IEEE 2023 Congress on Evolutionary Computation — Late Breaking Papers.
-
-[Read Publication](https://doi.org/10.5281/zenodo.10046579)
-
-## 🏅 Selected Certifications
-
-- ISO/IEC 27001:2022 Lead Auditor.
-- Cyber Security Analyst (CySA+) — Logstail.
-- Auditing Generative AI: Strategy, Analysis, and Risk Management — ISACA.
-- Cybersecurity Training — ISC2.
-- Secure Coding Mastery: React, Node and Beyond — Logstail.
-- Programming for Everybody (Python) — University of Michigan.
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Munia2319&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munia2319&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
 
 ---
 
