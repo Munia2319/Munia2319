@@ -3,25 +3,25 @@
   <!-- PROFILE BANNER: ADD YOUR IMAGE LATER -->
   <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Munia's Profile Banner" />
 
-  # Hi, I'm Musfika Ikfat Munia 👋
+ 
+# Hi, I'm Musfika Ikfat Munia 👋
 
-  ### Software Developer | MSc in Software Cybersecurity
+### Software Developer | MSc in Software Cybersecurity
 
-  **Building Secure Software · Exploring AI Engineering · Backend Development**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Secure+and+Scalable+Software;Exploring+AI+Engineering+and+Security;Developing+Reliable+Backend+Systems;Turning+Ideas+Into+Impactful+Solutions)](https://git.io/typing-svg)
 
-  <p>
-    <a href="https://www.linkedin.com/in/musfika-munia/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/Munia2319">
-      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="GitHub"/>
-    </a>
-    <a href="mailto:mushfikaikfat1998@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-  </p>
+  
 
-  📍 Slovenia
+<p>
+  <a href="https://www.linkedin.com/in/musfika-munia/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Munia2319">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+
 
 </div>
 
@@ -93,12 +93,7 @@ Building a stronger foundation in software engineering through hands-on developm
 
 ## 🔬 Research & Professional Interests
 
-- AI Security and Adversarial Machine Learning.
-- Data Poisoning and Adversarial Attacks.
-- Application Security and Secure Coding.
-- Threat Modeling and Security Risk Assessment.
-- SIEM, Threat Hunting and Incident Response.
-- AI Agent Security and Secure AI Systems.
+Passionate about building intelligent and secure systems through software engineering and AI innovation.
 
 
 ---
