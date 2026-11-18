@@ -1,21 +1,29 @@
-<!-- ========================================= -->
+ <!-- ========================================= -->
 <!--              PROFILE BANNER               -->
 <!-- ========================================= -->
 
 <div align="center">
 
-<!-- Replace this URL with your own banner image -->
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+  <!-- Add your banner image URL here later -->
+  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Munia's GitHub Profile Banner" />
 
-# Hey, I'm Munia! 👋
+  # Hey, I'm Munia! 👋
 
-### Software Developer | MSc in Software Cybersecurity
+  ### Software Developer | MSc in Software Cybersecurity
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Secure+and+Scalable+Applications;Exploring+AI+Agent+Security;Learning+Backend+Development;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
+  **Building Secure Applications · Exploring Backend Engineering · AI Security**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+  <p>
+    <a href="YOUR_LINKEDIN_URL">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/Munia2319">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="GitHub"/>
+    </a>
+    <a href="mailto:YOUR_EMAIL">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 
 </div>
 
@@ -23,74 +31,72 @@
 
 ## 👩‍💻 About Me
 
-I'm a software developer with a Master's degree in **Software Cybersecurity**, specializing in the intersection of AI and security.
+I'm a software developer with a Master's degree in **Software Cybersecurity** from the Erasmus Mundus CYBERUS programme.
 
-I enjoy understanding how software works under the hood, solving technical problems, and building applications that are both functional and secure.
+I enjoy building reliable and secure applications, understanding software architecture, and exploring the intersection of **Artificial Intelligence and Cybersecurity**.
 
 - 🎓 MSc in Software Cybersecurity — Erasmus Mundus CYBERUS
-- 💻 Currently strengthening my full-stack and backend development skills.
+- 💻 Strengthening my backend and full-stack development skills.
 - 🔐 Interested in AI Security, Application Security and Secure Software Development.
-- 🚀 Exploring Node.js, Express.js, TypeScript and REST API development.
-- 🧠 Always curious about learning new technologies and building meaningful projects.
+- 🚀 Exploring Node.js, Express.js, TypeScript and RESTful APIs.
 
----
+## 🚀 Currently Exploring
+
+- Backend development with Node.js, Express.js and TypeScript.
+- Designing and developing RESTful APIs.
+- Database design and backend architecture.
+- Security challenges in AI-powered applications and AI agents.
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages
+### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Programming Languages"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" alt="Frameworks and Libraries"/>
 </p>
 
-### Database & Tools
+### Databases & Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode" alt="Databases and Tools"/>
 </p>
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Munia2319&show_icons=true&hide_border=true&theme=transparent" alt="Munia's GitHub Stats"/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munia2319&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
+
+</div>
+
 ---
 
-## 🚀 What I'm Currently Working On
-
-- 📚 Strengthening my understanding of Node.js internals and backend architecture.
-- 🔗 Building RESTful APIs using Express.js and TypeScript.
-- 🛡️ Exploring security challenges in AI-powered applications and AI agents.
-- 🧪 Practicing problem-solving and writing clean, maintainable code.
-
----
-
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="left">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
+<div align="center">
 
-<br clear="both">
+  ### 💙 Thanks for visiting my profile!
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Munia2319/Munia2319/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-### 💙 Thanks for visiting my profile!
-
-*Keep learning. Keep building. Keep securing.*
-
+  *Keep learning. Keep building. Keep securing.*
 
 </div>
